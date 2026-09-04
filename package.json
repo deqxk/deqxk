@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "next build && gh-pages -d out --dotfiles"
   },
   "dependencies": {
     "next": "14.2.35",
@@ -17,7 +18,8 @@
     "@react-three/drei": "^9.108.3",
     "gsap": "^3.12.5",
     "@gsap/react": "^2.1.1",
-    "lucide-react": "^0.400.0"
+    "lucide-react": "^0.400.0",
+    "gh-pages": "^6.1.1"
   },
   "devDependencies": {
     "typescript": "^5.5.3",
