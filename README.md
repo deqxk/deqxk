@@ -37,3 +37,4 @@ Then open http://localhost:3000. For a production build: `npm run build && npm s
 This is a static-friendly Next.js app. The easiest path is Vercel
 (`vercel.com`) — connect the repo and it deploys on push, free for personal
 projects. Netlify and Cloudflare Pages also work with their Next.js adapters.
+"# deqxk" 
