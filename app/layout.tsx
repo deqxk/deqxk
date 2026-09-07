@@ -21,8 +21,8 @@ const mono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name — Software Engineer",
-  description: "Portfolio of Your Name, software engineer working across backend systems, networking and full-stack development.",
+  title: "deqxk — Software Engineer",
+  description: "Portfolio of deqxk, software engineer working across backend systems, networking and full-stack development.",
 };
 
 export default function RootLayout({
