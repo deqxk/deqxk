@@ -3,9 +3,9 @@
 import { Github, Linkedin, Mail } from "lucide-react";
 
 const links = [
-  { label: "Email", href: "mailto:you@example.com", icon: Mail },
-  { label: "GitHub", href: "https://github.com/yourusername", icon: Github },
-  { label: "LinkedIn", href: "https://linkedin.com/in/yourusername", icon: Linkedin },
+  { label: "Email", href: "mailto:deqxk.me", icon: Mail },
+  { label: "GitHub", href: "https://github.com/deqxk", icon: Github },
+  { label: "LinkedIn", href: "https://linkedin.com/in/deqxk", icon: Linkedin },
 ];
 
 export default function Contact() {

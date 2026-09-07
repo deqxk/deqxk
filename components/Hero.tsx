@@ -42,7 +42,7 @@ export default function Hero() {
             </span>
           </h1>
           <p className="hero-copy mt-7 max-w-md text-[15px] leading-relaxed text-muted">
-            Your Name — I design APIs, data models and the plumbing that keeps
+            deqxk — I design APIs, data models and the plumbing that keeps
             them talking to each other correctly. Currently deep in backend
             architecture, networking fundamentals and the occasional
             algorithm for its own sake.
